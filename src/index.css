@@ -95,14 +95,15 @@ h6 {
   -webkit-text-fill-color: transparent;
   background-clip: text;
   color: transparent;
+}
 
-  .app-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 40px 20px;
-    position: relative;
-    z-index: 1;
-  }
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  position: relative;
+  z-index: 1;
+}
 
   /* Animations */
   @keyframes pulseGlow {
